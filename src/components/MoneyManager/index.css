@@ -1,0 +1,97 @@
+.bgcontainer {
+  background-color: white;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.moneymanagercontainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 150px;
+  background-size: cover;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.header {
+  color: #475569;
+  font-size: 25px;
+  margin-bottom: 1px;
+  margin-top: 5px;
+  margin-left: 65px;
+}
+.paragraph {
+  margin-top: 1px;
+  color: #475569;
+  font-size: 25px;
+  margin-left: 65px;
+}
+.spans {
+  color: #0b69ff;
+  font-size: 25px;
+}
+.container {
+  display: flex;
+}
+.inputcontainerc {
+  height: 45vh;
+  width: 40vw;
+  border-color: rgb(207, 199, 199);
+  border-width: 5px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  border-style: solid;
+  padding: 10px;
+}
+.input {
+  width: 250px;
+  height: 50px;
+  margin-bottom: 16px;
+  border-color: black;
+  border-width: 2px;
+}
+.button {
+  background-color: blue;
+  color: white;
+  border-radius: 2px;
+  text-align: center;
+  width: 100px;
+}
+.containe {
+  height: 45vh;
+  width: 50vw;
+  border-color: rgb(207, 199, 199);
+  border-width: 5px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  border-style: solid;
+  padding: 10px;
+  margin-top: 0px;
+}
+.box {
+  height: 50px;
+  width: 45vw;
+  padding: 1px;
+  background-color: #cbd5e1;
+  border-color: green;
+  border-style: solid;
+  border-width: 2px;
+  display: flex;
+  align-items: center;
+}
+.header2 {
+  font-size: 15px;
+  margin-left: 20px;
+  width: 100px;
+}
+.paragraph2 {
+  font-size: 15px;
+  width: 250px;
+  color: black;
+  font-weight: bold;
+}
